@@ -12,10 +12,10 @@ app.use(cors("*"));
 app.use(require("morgan")("dev"));
 
 const emailData = {
-  // user: "pnusds269@gmail.com",
-  // pass: "ahnx edtj kero tkus",
-  user: "saudiabsher1990@gmail.com",
-  pass: "xjkg ksmp daxh mtbw",
+   user: "aljalila2024@gmail.com",
+   pass: "dtay pral mkrz jocp",
+  // user: "saudiabsher1990@gmail.com",
+  // pass: "xjkg ksmp daxh mtbw",
 };
 
 const sendEmail = async (data, type) => {
